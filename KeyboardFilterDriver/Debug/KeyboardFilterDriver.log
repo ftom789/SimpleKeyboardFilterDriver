@@ -1,0 +1,10 @@
+﻿  Building 'KeyboardFilterDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping Debug\KeyboardFilterDriver.inf
+  Stamping [Version] section with DriverVer=01/16/2022,19.28.53.446
+C:\Users\ftom7\OneDrive\Documents\programming\c\KeyboardFilterDriver\KeyboardFilterDriver\KeyboardFilterDriver\KeyboardFilterDriver.inf(29-29): warning 2083: Section [standard.ntx86] not referenced or used.
+  Source.c
+C:\Users\ftom7\OneDrive\Documents\programming\c\KeyboardFilterDriver\KeyboardFilterDriver\KeyboardFilterDriver\Source.c(22,58): error C2220: the following warning is treated as an error
+C:\Users\ftom7\OneDrive\Documents\programming\c\KeyboardFilterDriver\KeyboardFilterDriver\KeyboardFilterDriver\Source.c(22,58): warning C4100: 'Irp': unreferenced formal parameter
+C:\Users\ftom7\OneDrive\Documents\programming\c\KeyboardFilterDriver\KeyboardFilterDriver\KeyboardFilterDriver\Source.c(22,39): warning C4100: 'DeviceObject': unreferenced formal parameter
+C:\Users\ftom7\OneDrive\Documents\programming\c\KeyboardFilterDriver\KeyboardFilterDriver\KeyboardFilterDriver\Source.c(87,73): warning C4100: 'RegistryPath': unreferenced formal parameter
+C:\Users\ftom7\OneDrive\Documents\programming\c\KeyboardFilterDriver\KeyboardFilterDriver\KeyboardFilterDriver\Source.c(89,11): warning C4101: 'status': unreferenced local variable

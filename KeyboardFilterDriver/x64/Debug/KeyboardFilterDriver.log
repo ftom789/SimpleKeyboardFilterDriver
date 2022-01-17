@@ -1,0 +1,23 @@
+﻿  Building 'KeyboardFilterDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\KeyboardFilterDriver.inf
+  Stamping [Version] section with DriverVer=01/16/2022,21.35.38.564
+C:\Users\ftom7\OneDrive\Documents\programming\c\KeyboardFilterDriver\KeyboardFilterDriver\KeyboardFilterDriver\KeyboardFilterDriver.inf(29-29): warning 2083: Section [standard.ntamd64] not referenced or used.
+  Source.c
+  KeyboardFilterDriver.vcxproj -> C:\Users\ftom7\OneDrive\Documents\programming\c\KeyboardFilterDriver\KeyboardFilterDriver\x64\Debug\KeyboardFilterDriver.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\ftom7\OneDrive\Documents\programming\c\KeyboardFilterDriver\KeyboardFilterDriver\x64\Debug\KeyboardFilterDriver.sys
+  
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\ftom7\OneDrive\Documents\programming\c\KeyboardFilterDriver\KeyboardFilterDriver\x64\Debug\KeyboardFilterDriver\keyboardfilterdriver.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\ftom7\OneDrive\Documents\programming\c\KeyboardFilterDriver\KeyboardFilterDriver\x64\Debug\KeyboardFilterDriver\keyboardfilterdriver.cat
+  
